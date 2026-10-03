@@ -1,0 +1,35 @@
+# Core FastAPI dependencies
+fastapi
+uvicorn
+pydantic
+
+# LangChain / LangGraph for Agent Logic
+langchain # Or your specific required version
+langchain-core # Usually a dependency, good to specify
+langgraph # Add langgraph
+
+# Redis for conversation storage
+redis
+aioredis
+
+# Groq for fast LLM inference
+langchain-groq # Use the specific langchain integration
+groq
+
+# Environment configuration
+python-dotenv
+
+# JSON handling (optional but good)
+orjson
+
+# Date/time utilities (if used)
+python-dateutil
+
+# HTTP client (if used by your app code)
+httpx
+
+# REQUIRED FOR HEALTHCHECK
+requests
+
+# Add any other specific langchain community packages if used
+# e.g., langchain-community>=0.0,<0.1
