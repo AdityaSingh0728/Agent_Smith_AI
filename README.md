@@ -2,7 +2,7 @@
 
 ## 🎯 **Project Overview**
 
-This is a **hackathon MVP** for an AI-powered market research platform that conducts intelligent interviews with respondents. The platform consists of multiple microservices working together to create a complete market research ecosystem.
+This is an AI-powered market research platform that conducts intelligent interviews with respondents. The platform consists of multiple microservices working together to create a complete market research ecosystem.
 
 ## 🏗️ **Architecture**
 
